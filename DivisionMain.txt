@@ -1,0 +1,6 @@
+class DivisionMain {
+Public static void main(String[]args){
+Divison div= new Division();
+div.Sarath();
+}
+}
